@@ -1,0 +1,7 @@
+Goal --> To predict the survival of passangers onboard based on certain features
+
+Features that could affect ---> Age, Sex, fare(richer people may be favoured), cabin(others may reach rescue boats faster than others)
+
+Features that could not affect ---> Name, Passenger_id, ticket_id (we'll drop these),embarked(stationed)
+
+1.Alot of missing values
